@@ -1,13 +1,14 @@
 # Keirsey Personality Test Results
 This Java program reads a file containing Keirsey Personality Test survey results and outputs the corresponding personality types for each participant. The Keirsey Temperament Sorter (keirsey.com) is a test that measures four independent dimensions of personality.
 
-How to Use
+# How to Use
 Compile the program using the command javac PersonalityTest.java
 Prepare a file containing Keirsey Personality Test survey results.
 Run the program using the command java PersonalityTest and follow the prompts to input the file name.
 The program will process the data and output the corresponding personality types for each participant in the file.
 
-Methods
+# Methods
+
 intro()
 Displays an introduction to the program.
 
